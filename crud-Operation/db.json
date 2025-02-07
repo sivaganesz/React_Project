@@ -1,0 +1,11 @@
+{
+  "students": [
+    {
+      "name": "sivaganesz-01",
+      "email": "siva@gmail.com",
+      "phonenumber": "9876543210",
+      "image": "https://i.pravatar.cc/48?img=8f82",
+      "id": "8f82"
+    }
+  ]
+}
