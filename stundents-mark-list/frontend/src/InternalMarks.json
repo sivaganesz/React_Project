@@ -1,0 +1,601 @@
+[
+    {
+        "semester": 1,
+        "internal_marks": {
+            "theory": {
+                "regulation": "R2021",
+                "subjects": [
+                    {
+                        "subject_code": "CY2101",
+                        "subject_name": "Engineering Chemistry",
+                        "CT1": 78,
+                        "CT2": 50,
+                        "Assign1": 97,
+                        "Seminar": 97,
+                        "MCQ": 97
+                    },
+                    {
+                        "subject_code": "EM2101",
+                        "subject_name": "Coding Techniques - I",
+                        "CT1": 82,
+                        "CT2": 50,
+                        "Assign1": 90,
+                        "Seminar": 90,
+                        "MCQ": 90
+                    },
+                    {
+                        "subject_code": "GE2101",
+                        "subject_name": "Principles of Engineering",
+                        "CT1": 92,
+                        "CT2": 32,
+                        "Assign1": 70,
+                        "Seminar": 70,
+                        "MCQ": 70
+                    },
+                    {
+                        "subject_code": "MA2101",
+                        "subject_name": "Matrices and Differential Calculus",
+                        "CT1": 84,
+                        "CT2": 50,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100
+                    },
+                    {
+                        "subject_code": "PH2101",
+                        "subject_name": "Engineering Physics",
+                        "CT1": 84,
+                        "CT2": 60,
+                        "Assign1": 93,
+                        "Seminar": 93,
+                        "MCQ": 93
+                    },
+                    {
+                        "subject_code": "SH2101",
+                        "subject_name": "Technical English",
+                        "CT1": 69,
+                        "CT2": 63,
+                        "Assign1": 97,
+                        "Seminar": 97,
+                        "MCQ": 97
+                    }
+                ]
+            },
+            "practical": {
+                "regulation": "R2021",
+                "subjects": [
+                    {
+                        "subject_code": "EM2102",
+                        "subject_name": "Coding Techniques - I Laboratory",
+                        "continuous_assessment": 96,
+                        "model_lab": 90
+                    },
+                    {
+                        "subject_code": "MA2102",
+                        "subject_name": "Mathematics Laboratory",
+                        "continuous_assessment": 92,
+                        "model_lab": 85
+                    },
+                    {
+                        "subject_code": "PH2102",
+                        "subject_name": "Physics Laboratory",
+                        "continuous_assessment": 95,
+                        "model_lab": 72
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "semester": 2,
+        "internal_marks": {
+            "theory": {
+                "regulation": "R2021",
+                "subjects": [
+                    {
+                        "subject_code": "EM2151",
+                        "subject_name": "Coding Techniques - II",
+                        "CT1": 78,
+                        "CT2": 70,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100
+                    },
+                    {
+                        "subject_code": "GE2151",
+                        "subject_name": "Engineering Graphics",
+                        "CT1": 50,
+                        "CT2": 94,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100
+                    },
+                    {
+                        "subject_code": "GE2152",
+                        "subject_name": "Environmental Science and Engineering",
+                        "CT1": 86,
+                        "CT2": 82,
+                        "Assign1": 98,
+                        "Seminar": 98,
+                        "MCQ": 98
+                    },
+                    {
+                        "subject_code": "MA2151",
+                        "subject_name": "Vector Calculus, Complex Integration and Laplace Transform",
+                        "CT1": 80,
+                        "CT2": 92,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100
+                    },
+                    {
+                        "subject_code": "PH2151",
+                        "subject_name": "Physics of Non-Conventional Energy Sources",
+                        "CT1": 82,
+                        "CT2": 96,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100
+                    },
+                    {
+                        "subject_code": "SH2151",
+                        "subject_name": "Professional English",
+                        "CT1": 50,
+                        "CT2": 69,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100
+                    }
+                ]
+            },
+            "practical": {
+                "regulation": "R2021",
+                "subjects": [
+                    {
+                        "subject_code": "CY2151",
+                        "subject_name": "Chemistry Laboratory",
+                        "continuous_assessment": 97,
+                        "model_lab": 76
+                    },
+                    {
+                        "subject_code": "EM2152",
+                        "subject_name": "Coding Techniques - II Laboratory",
+                        "continuous_assessment": 100,
+                        "model_lab": 100
+                    },
+                    {
+                        "subject_code": "GE2153",
+                        "subject_name": "Engineering Practices Laboratory",
+                        "continuous_assessment": 90,
+                        "model_lab": 100
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "semester": 3,
+        "internal_marks": {
+            "theory": {
+                "regulation": "R2021",
+                "subjects": [
+                    {
+                        "subject_code": "EC2203",
+                        "subject_name": "Digital Systems",
+                        "CT1": 60,
+                        "CT2": 64,
+                        "Assign1": 90,
+                        "Seminar": 90,
+                        "MCQ": 90,
+                        "Skill": null
+                    },
+                    {
+                        "subject_code": "EE2201",
+                        "subject_name": "Fundamentals of Electrical and Electronics Engineering",
+                        "CT1": 66,
+                        "CT2": 70,
+                        "Assign1": 100,
+                        "Seminar": 99,
+                        "MCQ": 100,
+                        "Skill": null
+                    },
+                    {
+                        "subject_code": "GE2201",
+                        "subject_name": "Design Thinking",
+                        "CT1": 72,
+                        "CT2": 56,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 95,
+                        "Skill": null
+                    },
+                    {
+                        "subject_code": "IT2201",
+                        "subject_name": "Computer Organization and Architecture",
+                        "CT1": 58,
+                        "CT2": 56,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100,
+                        "Skill": null
+                    },
+                    {
+                        "subject_code": "IT2202",
+                        "subject_name": "Object Oriented Programming",
+                        "CT1": 54,
+                        "CT2": 60,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100,
+                        "Skill": null
+                    },
+                    {
+                        "subject_code": "IT2203",
+                        "subject_name": "Software Engineering",
+                        "CT1": 42,
+                        "CT2": 68,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100,
+                        "Skill": null
+                    },
+                    {
+                        "subject_code": "MA2201",
+                        "subject_name": "Linear Algebra and Boundary Value Problems",
+                        "CT1": 66,
+                        "CT2": 66,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100,
+                        "Skill": null
+                    }
+                ]
+            },
+            "practical": {
+                "regulation": "R2021",
+                "subjects": [
+                    {
+                        "subject_code": "EC2204",
+                        "subject_name": "Digital Systems Laboratory",
+                        "continuous_assessment": 92,
+                        "model_lab": 81
+                    },
+                    {
+                        "subject_code": "IT2204",
+                        "subject_name": "Object Oriented Programming Laboratory",
+                        "continuous_assessment": 99,
+                        "model_lab": 75
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "semester": 4,
+        "internal_marks": {
+            "theory": {
+                "regulation": "R2021",
+                "subjects": [
+                    {
+                        "subject_code": "CS2251",
+                        "subject_name": "Database Management Systems",
+                        "CT1": 56,
+                        "CT2": 50,
+                        "Assign1": 94,
+                        "Seminar": 95,
+                        "MCQ": 100,
+                        "Skill": null
+                    },
+                    {
+                        "subject_code": "IT2251",
+                        "subject_name": "Data Structures",
+                        "CT1": 60,
+                        "CT2": 84,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 100,
+                        "Skill": null
+                    },
+                    {
+                        "subject_code": "IT2252",
+                        "subject_name": "Operating Systems",
+                        "CT1": 87,
+                        "CT2": 84,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 95,
+                        "Skill": null
+                    },
+                    {
+                        "subject_code": "IT2253",
+                        "subject_name": "Web Essentials",
+                        "CT1": 72,
+                        "CT2": 78,
+                        "Assign1": 75,
+                        "Seminar": 100,
+                        "MCQ": 100,
+                        "Skill": null
+                    },
+                    {
+                        "subject_code": "MA2251",
+                        "subject_name": "Discrete Mathematics and Probability",
+                        "CT1": 72,
+                        "CT2": 52,
+                        "Assign1": 100,
+                        "Seminar": 100,
+                        "MCQ": 97,
+                        "Skill": null
+                    }
+                ]
+            },
+            "practical": {
+                "regulation": "R2021",
+                "subjects": [
+                    {
+                        "subject_code": "CS2254",
+                        "subject_name": "Database Management Systems Laboratory",
+                        "continuous_assessment": 92,
+                        "model_lab": 97
+                    },
+                    {
+                        "subject_code": "IT2254",
+                        "subject_name": "Data Structures Laboratory",
+                        "continuous_assessment": 96,
+                        "model_lab": 89
+                    },
+                    {
+                        "subject_code": "IT2255",
+                        "subject_name": "Web Essentials Laboratory",
+                        "continuous_assessment": 99,
+                        "model_lab": 84
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "semester": 5,
+        "internal_marks": {
+          "theory": {
+            "regulation": "R2021",
+            "subjects": [
+              {
+                "subject_code": "IT2301",
+                "subject_name": "Algorithms Design and Analysis",
+                "CT1": 90,
+                "CT2": 94,
+                "Assign1": 90,
+                "Seminar": 95,
+                "MCQ": 88,
+                "Skill": null
+              },
+              {
+                "subject_code": "IT2302",
+                "subject_name": "Artificial Intelligent Systems",
+                "CT1": 72,
+                "CT2": 64,
+                "Assign1": 93,
+                "Seminar": 95,
+                "MCQ": 90,
+                "Skill": null
+              },
+              {
+                "subject_code": "IT2303",
+                "subject_name": "Computer Networks",
+                "CT1": 90,
+                "CT2": 84,
+                "Assign1": 100,
+                "Seminar": 100,
+                "MCQ": 100,
+                "Skill": null
+              },
+              {
+                "subject_code": "IT2304",
+                "subject_name": "Full Stack Web Development",
+                "CT1": 57,
+                "CT2": 76,
+                "Assign1": 71,
+                "Seminar": 96,
+                "MCQ": 100,
+                "Skill": null
+              },
+              {
+                "subject_code": "VIT311",
+                "subject_name": "Network Security Essentials",
+                "CT1": 62,
+                "CT2": 70,
+                "Assign1": 100,
+                "Seminar": 100,
+                "MCQ": 95,
+                "Skill": null
+              },
+              {
+                "subject_code": "VIT315",
+                "subject_name": "Cyber Forensics Investigation",
+                "CT1": 80,
+                "CT2": 78,
+                "Assign1": 100,
+                "Seminar": 95,
+                "MCQ": 96,
+                "Skill": null
+              }
+            ]
+          },
+          "practical": {
+            "regulation": "R2021",
+            "subjects": [
+              {
+                "subject_code": "EM2351",
+                "subject_name": "Professional Communication",
+                "continuous_assessment": 95,
+                "model_lab": 71
+              },
+              {
+                "subject_code": "IT2305",
+                "subject_name": "Full Stack Web Development Laboratory",
+                "continuous_assessment": 97,
+                "model_lab": 97
+              },
+              {
+                "subject_code": "IT2306",
+                "subject_name": "Networks Laboratory",
+                "continuous_assessment": 98,
+                "model_lab": 91
+              }
+            ]
+          }
+        }
+    },
+    {
+        "semester": 6,
+        "internal_marks": {
+          "theory": {
+            "regulation": "R2021",
+            "subjects": [
+              {
+                "subject_code": "IT2351",
+                "subject_name": "Principles of Cryptography",
+                "CT1": 52,
+                "CT2": 60,
+                "Assign1": 95,
+                "Seminar": 96,
+                "MCQ": 0,
+                "Skill": 60
+              },
+              {
+                "subject_code": "OME751",
+                "subject_name": "Design of Experiments",
+                "CT1": 64,
+                "CT2": 68,
+                "Assign1": 90,
+                "Seminar": 96,
+                "MCQ": 0,
+                "Skill": 60
+              },
+              {
+                "subject_code": "VIT312",
+                "subject_name": "Cloud Computing",
+                "CT1": 78,
+                "CT2": 84,
+                "Assign1": 90,
+                "Seminar": 96,
+                "MCQ": 0,
+                "Skill": 60
+              },
+              {
+                "subject_code": "VIT322",
+                "subject_name": "Agile Methodologies",
+                "CT1": 70,
+                "CT2": 60,
+                "Assign1": 95,
+                "Seminar": 96,
+                "MCQ": 0,
+                "Skill": 60
+              },
+              {
+                "subject_code": "VIT334",
+                "subject_name": "Machine Learning Algorithms",
+                "CT1": 84,
+                "CT2": 78,
+                "Assign1": 88,
+                "Seminar": 96,
+                "MCQ": 0,
+                "Skill": 60
+              },
+              {
+                "subject_code": "VIT336",
+                "subject_name": "Recommender Systems",
+                "CT1": 25,
+                "CT2": 82,
+                "Assign1": 90,
+                "Seminar": 96,
+                "MCQ": 0,
+                "Skill": 60
+              }
+            ]
+          },
+          "practical": {
+            "regulation": "R2021",
+            "subjects": [
+              {
+                "subject_code": "IT2352",
+                "subject_name": "Android Application Development Laboratory",
+                "continuous_assessment": 85,
+                "model_lab": 98
+              }
+            ]
+          }
+        }
+    },
+    {
+        "semester": 7,
+        "internal_marks": {
+          "theory": {
+            "regulation": "R2021",
+            "subjects": [
+              {
+                "subject_code": "GE2401",
+                "subject_name": "Universal Human Values and Ethics",
+                "CT1": 66,
+                "CT2": 74,
+                "Assign1": 92,
+                "Seminar": 86,
+                "MCQ": 78,
+                "Skill": 100
+              },
+              {
+                "subject_code": "GE2491",
+                "subject_name": "Principles of Management",
+                "CT1": 40,
+                "CT2": 50,
+                "Assign1": 96,
+                "Seminar": 86,
+                "MCQ": 78,
+                "Skill": 100
+              },
+              {
+                "subject_code": "OCE709",
+                "subject_name": "Environment and Agriculture",
+                "CT1": 68,
+                "CT2": 68,
+                "Assign1": 100,
+                "Seminar": 86,
+                "MCQ": 78,
+                "Skill": 100
+              },
+              {
+                "subject_code": "OME701",
+                "subject_name": "3D Printing and Design",
+                "CT1": 68,
+                "CT2": 72,
+                "Assign1": 100,
+                "Seminar": 86,
+                "MCQ": 78,
+                "Skill": 100
+              },
+              {
+                "subject_code": "OME704",
+                "subject_name": "Electric and Hybrid Vehicles",
+                "CT1": 66,
+                "CT2": 64,
+                "Assign1": 85,
+                "Seminar": 86,
+                "MCQ": 78,
+                "Skill": 100
+              }
+            ]
+          },
+          "practical": {
+            "regulation": "R2021",
+            "subjects": [
+              {
+                "subject_code": "IT2401",
+                "subject_name": "Project Development",
+                "continuous_assessment": 78,
+                "model_lab": null
+              }
+            ]
+          }
+        }
+    }   
+]
